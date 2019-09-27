@@ -11,6 +11,7 @@ public class MouseEvents : MonoBehaviour
 
     public void OnMouseDown()
     {
+        Debug.Log("mouse down");
         mouseClickDownEvent.Invoke();
     }
 }

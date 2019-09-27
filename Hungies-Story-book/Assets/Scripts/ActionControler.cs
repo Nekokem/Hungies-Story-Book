@@ -11,10 +11,11 @@ public class ActionControler : MonoBehaviour
     public float speed = 0.5f, scaleSpeed = 10f, rotationSpeed = 10f;
     private Vector3 location, scales, rotationLocation;
     private UnityAction transformAction;
+    
 
     public void IsMove()
     {
-        location.y = speed * Time.deltaTime;
+        location.x = speed * Time.deltaTime;
         transform.Translate(location);
     }
 
@@ -26,7 +27,7 @@ public class ActionControler : MonoBehaviour
 
     public void IsRotation()
     {
-        rotationLocation.x = rotationSpeed * Time.deltaTime;
+        rotationLocation.y = rotationSpeed * Time.deltaTime;
     }
     
 }

@@ -21,10 +21,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/FLoatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionControler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
       </list>
     </option>
   </component>
@@ -75,7 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1569253307961</updated>
       <workItem from="1569253310687" duration="4820000" />
-      <workItem from="1569271870759" duration="2548000" />
+      <workItem from="1569271870759" duration="3147000" />
+      <workItem from="1569425886762" duration="1725000" />
+      <workItem from="1569610767663" duration="930000" />
     </task>
     <servers />
   </component>
