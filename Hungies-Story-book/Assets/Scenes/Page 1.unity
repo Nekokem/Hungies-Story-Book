@@ -302,6 +302,7 @@ GameObject:
   - component: {fileID: 180611559}
   - component: {fileID: 180611558}
   - component: {fileID: 180611560}
+  - component: {fileID: 180611561}
   m_Layer: 5
   m_Name: DragonFruit
   m_TagString: Untagged
@@ -393,6 +394,19 @@ MonoBehaviour:
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!65 &180611561
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 180611556}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 49.4, y: 87.6, z: 1}
+  m_Center: {x: -4.1, y: 8.86, z: 0}
 --- !u!1 &414932898
 GameObject:
   m_ObjectHideFlags: 0
