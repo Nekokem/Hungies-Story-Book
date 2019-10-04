@@ -3,15 +3,15 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
+using UnityEngine.EventSystems;
 using UnityEngine.UIElements;
 
-public class MouseEvents : MonoBehaviour
+public class MouseEvents : MonoBehaviour, IPointerDownHandler
 {
-    public UnityEvent mouseClickDownEvent;
-
-    public void OnMouseDown()
+    public UnityEvent mouseDownClick;
+    
+    public void OnPointerDown(PointerEventData eventData)
     {
-        Debug.Log("mouse down");
-        mouseClickDownEvent.Invoke();
+        mouseDownClick.Invoke();
     }
 }

@@ -6,7 +6,7 @@ using UnityEngine.Events;
 
 public class GameActionHandler : MonoBehaviour
 {
-    public UnityEvent hanlderEvent;
+    public UnityEvent handlerEvent;
     public GameAction gameActionObj;
 
     private void Start()
@@ -16,6 +16,6 @@ public class GameActionHandler : MonoBehaviour
 
     private void Action()
     {
-        hanlderEvent.Invoke();
+        handlerEvent.Invoke();
     }
 }
