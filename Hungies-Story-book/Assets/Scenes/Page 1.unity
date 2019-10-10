@@ -382,9 +382,9 @@ MonoBehaviour:
   mouseDownClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 414932898}
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 414932903}
+        m_MethodName: IsScale
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -454,6 +454,7 @@ GameObject:
   - component: {fileID: 414932901}
   - component: {fileID: 414932900}
   - component: {fileID: 414932902}
+  - component: {fileID: 414932903}
   m_Layer: 5
   m_Name: Hungees
   m_TagString: Untagged
@@ -530,6 +531,21 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 70.867294, y: 45.751778, z: 3.262673}
   m_Center: {x: -10.954616, y: 15.410593, z: 0}
+--- !u!114 &414932903
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 414932898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3fad2fd2f3542341a6f6390487011b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 0.5
+  scaleSpeed: 10
+  rotationSpeed: 10
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -766,7 +782,7 @@ Rigidbody2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 535636110}
   m_BodyType: 0
-  m_Simulated: 1
+  m_Simulated: 0
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1
@@ -892,7 +908,7 @@ Rigidbody2D:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 930850356}
   m_BodyType: 0
-  m_Simulated: 1
+  m_Simulated: 0
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
   m_Mass: 1

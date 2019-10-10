@@ -11,7 +11,9 @@ public class ActionControler : MonoBehaviour
     public float speed = 0.5f, scaleSpeed = 10f, rotationSpeed = 10f;
     private Vector3 location, scales, rotationLocation;
     private UnityAction transformAction;
+    public Color hungeesColor;
     
+
 
     public void IsMove()
     {
@@ -29,5 +31,9 @@ public class ActionControler : MonoBehaviour
     {
         rotationLocation.y = rotationSpeed * Time.deltaTime;
     }
-    
+
+    public void ColorChange()
+    {
+        
+    }
 }

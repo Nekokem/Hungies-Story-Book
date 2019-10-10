@@ -22,11 +22,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/FLoatData.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ActionControler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionControler.cs" />
       </list>
     </option>
   </component>
@@ -37,7 +37,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -84,6 +84,8 @@
       <workItem from="1569859482168" duration="5156000" />
       <workItem from="1570199384630" duration="3681000" />
       <workItem from="1570209316614" duration="2398000" />
+      <workItem from="1570641601529" duration="3675000" />
+      <workItem from="1570653290467" duration="996000" />
     </task>
     <servers />
   </component>
