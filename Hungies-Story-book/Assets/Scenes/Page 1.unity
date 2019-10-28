@@ -456,6 +456,7 @@ GameObject:
   - component: {fileID: 414932902}
   - component: {fileID: 414932903}
   - component: {fileID: 414932904}
+  - component: {fileID: 414932905}
   m_Layer: 5
   m_Name: Hungees
   m_TagString: Untagged
@@ -545,9 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c3fad2fd2f3542341a6f6390487011b3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 0.5
   scaleSpeed: 10
-  rotationSpeed: 10
 --- !u!95 &414932904
 Animator:
   serializedVersion: 3
@@ -567,6 +566,18 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &414932905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 414932898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bb51aaab550fcc4582213a4594025b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -908,8 +919,8 @@ MonoBehaviour:
   mouseDownClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 414932901}
-        m_MethodName: 
+      - m_Target: {fileID: 414932905}
+        m_MethodName: ColorChange
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

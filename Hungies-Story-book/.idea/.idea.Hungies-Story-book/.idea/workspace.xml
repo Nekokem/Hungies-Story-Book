@@ -29,11 +29,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionControler.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
       </list>
     </option>
   </component>
@@ -105,6 +105,7 @@
       <workItem from="1572292785943" duration="30000" />
       <workItem from="1572292849285" duration="34000" />
       <workItem from="1572302838257" duration="1266000" />
+      <workItem from="1572304878544" duration="2003000" />
     </task>
     <servers />
   </component>

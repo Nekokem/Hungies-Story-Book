@@ -8,7 +8,7 @@ using UnityEngine.Events;
 public class ActionController : MonoBehaviour
 {
 
-    public float speed = 0.5f, scaleSpeed = 10f, rotationSpeed = 10f;
+    public float scaleSpeed = 10f;
     private Vector3 scales;
     private UnityAction transformAction;
    
