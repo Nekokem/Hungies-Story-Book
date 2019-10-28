@@ -12,8 +12,6 @@ public class MusicController : MonoBehaviour
         _audioSource = GetComponent<AudioSource>();
     }
     
-    
-
     public void PlayMusic()
     {
         if (_audioSource.isPlaying) return;
@@ -22,6 +20,6 @@ public class MusicController : MonoBehaviour
 
     public void StopMusic()
     {
-        
+        _audioSource.Stop();
     }
 }

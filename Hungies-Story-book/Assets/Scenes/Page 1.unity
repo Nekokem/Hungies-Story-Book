@@ -323,7 +323,7 @@ RectTransform:
   m_LocalScale: {x: 3.3211854, y: 1.8693, z: 1.8693}
   m_Children: []
   m_Father: {fileID: 1024382215}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -470,17 +470,17 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 414932898}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.786753, y: 2.7027, z: 2.7027}
+  m_LocalScale: {x: 1.6058297, y: 1.4371778, z: 1.1461207}
   m_Children:
   - {fileID: 1650741968}
-  m_Father: {fileID: 1024382215}
-  m_RootOrder: 2
+  m_Father: {fileID: 535636111}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 98, y: 48}
+  m_AnchoredPosition: {x: 41.134308, y: 54.239147}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &414932900
@@ -548,7 +548,6 @@ MonoBehaviour:
   speed: 0.5
   scaleSpeed: 10
   rotationSpeed: 10
-  hungeesColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!95 &414932904
 Animator:
   serializedVersion: 3
@@ -557,7 +556,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 414932898}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 19a6f272bd50ad64bb2d3ed256e1b513, type: 2}
   m_CullingMode: 0
@@ -695,9 +694,10 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 2.3581285, y: 1.8805605, z: 2.3581285}
-  m_Children: []
+  m_Children:
+  - {fileID: 414932899}
   m_Father: {fileID: 1024382215}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -756,16 +756,16 @@ MonoBehaviour:
   mouseDownClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 414932903}
-        m_MethodName: IsMove
-        m_Mode: 1
+      - m_Target: {fileID: 414932904}
+        m_MethodName: set_enabled
+        m_Mode: 6
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
     m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine.CoreModule, Version=0.0.0.0,
       Culture=neutral, PublicKeyToken=null
@@ -849,7 +849,7 @@ RectTransform:
   m_LocalScale: {x: 2.8002784, y: 1.7419, z: 1.7419}
   m_Children: []
   m_Father: {fileID: 1024382215}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -1060,7 +1060,6 @@ RectTransform:
   m_Children:
   - {fileID: 1459689868}
   - {fileID: 2005177481}
-  - {fileID: 414932899}
   - {fileID: 180611557}
   - {fileID: 535636111}
   - {fileID: 930850357}

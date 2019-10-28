@@ -32,8 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
       </list>
     </option>
   </component>
@@ -104,6 +104,7 @@
       <workItem from="1572292476845" duration="187000" />
       <workItem from="1572292785943" duration="30000" />
       <workItem from="1572292849285" duration="34000" />
+      <workItem from="1572302838257" duration="815000" />
     </task>
     <servers />
   </component>
