@@ -9,6 +9,7 @@
         <e p="Scripts" t="Include">
           <e p="ActionController.cs" t="Include" />
           <e p="AnimController.cs" t="Include" />
+          <e p="CameraMotion.cs" t="Include" />
           <e p="ColorChanger.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />

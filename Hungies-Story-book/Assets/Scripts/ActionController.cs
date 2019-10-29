@@ -20,4 +20,9 @@ public class ActionController : MonoBehaviour
         transform.localScale += scales * Time.deltaTime;
     }
 
+    public void Test()
+    {
+        Debug.Log("working??");
+    }
+
 }

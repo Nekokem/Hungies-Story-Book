@@ -13,6 +13,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMotion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
@@ -32,8 +33,10 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CamraMotionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraMotion.cs" />
       </list>
     </option>
   </component>
@@ -105,7 +108,7 @@
       <workItem from="1572292785943" duration="30000" />
       <workItem from="1572292849285" duration="34000" />
       <workItem from="1572302838257" duration="1266000" />
-      <workItem from="1572304878544" duration="2003000" />
+      <workItem from="1572304878544" duration="4075000" />
     </task>
     <servers />
   </component>
