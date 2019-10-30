@@ -651,13 +651,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 906899833}
-  m_LocalRotation: {x: -0.7071068, y: -0.00000019861236, z: 0.00000019861236, w: -0.7071068}
-  m_LocalPosition: {x: -4, y: 665, z: 1004}
+  m_LocalRotation: {x: -0.7970624, y: -0.00000022387907, z: 0.00000016962267, w: -0.603897}
+  m_LocalPosition: {x: 381, y: 948, z: 1025}
   m_LocalScale: {x: 297.28775, y: 132.66919, z: 132.66919}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 179.99998}
+  m_LocalEulerAnglesHint: {x: 105.70099, y: 0, z: 0}
 --- !u!199 &906899835
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -5721,7 +5721,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 25
+          m_IntArgument: 50
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
