@@ -11,6 +11,7 @@ public class ActionController : MonoBehaviour
     public float scaleSpeed = 10f;
     private Vector3 scales;
     private UnityAction transformAction;
+    public GameAction testAction;
    
     
     
@@ -24,5 +25,5 @@ public class ActionController : MonoBehaviour
     {
         Debug.Log("working??");
     }
-
+    
 }

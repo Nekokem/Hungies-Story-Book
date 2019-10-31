@@ -457,6 +457,7 @@ GameObject:
   - component: {fileID: 414932903}
   - component: {fileID: 414932904}
   - component: {fileID: 414932905}
+  - component: {fileID: 414932906}
   m_Layer: 5
   m_Name: Hungees
   m_TagString: Untagged
@@ -547,6 +548,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scaleSpeed: 10
+  testAction: {fileID: 0}
 --- !u!95 &414932904
 Animator:
   serializedVersion: 3
@@ -555,7 +557,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 414932898}
-  m_Enabled: 0
+  m_Enabled: 1
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 19a6f272bd50ad64bb2d3ed256e1b513, type: 2}
   m_CullingMode: 0
@@ -578,6 +580,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bb51aaab550fcc4582213a4594025b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &414932906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 414932898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49072241cedb84aa1ae324b30ab4e7e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  paramiterName: move back
 --- !u!1 &534669902
 GameObject:
   m_ObjectHideFlags: 0
@@ -767,9 +782,9 @@ MonoBehaviour:
   mouseDownClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 414932904}
-        m_MethodName: set_enabled
-        m_Mode: 6
+      - m_Target: {fileID: 414932906}
+        m_MethodName: Set
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
