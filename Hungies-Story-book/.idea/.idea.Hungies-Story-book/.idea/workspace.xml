@@ -5,12 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Hungees.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Hungees.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/GameAction.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +23,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraMotion.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToggleLights.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,7 +37,6 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionControler.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AnimController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CamraMotionController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMotion.cs" />
@@ -51,6 +44,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ToggleLights.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SetAnimatorTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
       </list>
     </option>
   </component>
@@ -61,7 +55,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -123,7 +117,9 @@
       <workItem from="1572292849285" duration="34000" />
       <workItem from="1572302838257" duration="1266000" />
       <workItem from="1572304878544" duration="4211000" />
-      <workItem from="1572477880155" duration="1620000" />
+      <workItem from="1572477880155" duration="2541000" />
+      <workItem from="1572899040060" duration="378000" />
+      <workItem from="1572901934136" duration="381000" />
     </task>
     <servers />
   </component>
