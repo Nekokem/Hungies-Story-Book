@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MusicController : MonoBehaviour
 {
-    
+
 
     private void Awake()
     {
@@ -14,6 +14,6 @@ public class MusicController : MonoBehaviour
         DontDestroyOnLoad(this.gameObject);
 
     }
-    
-   
+
+
 }
