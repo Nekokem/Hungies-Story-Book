@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="1d3c8252-14c1-4e8a-97f2-199144dd1b60" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chubs.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Chubs.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 6.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Title Page.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Title Page.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/microphone.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/microphone.png.meta" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,13 +26,14 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameAction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetAnimatorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/AnimController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameActionHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneChanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DragObjs.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToggleLights.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetAnimatorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -45,6 +53,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SetAnimatorTrigger.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ActionController.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DrageObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DragObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DragObjs.cs" />
       </list>
     </option>
   </component>
@@ -120,6 +131,7 @@
       <workItem from="1572477880155" duration="2541000" />
       <workItem from="1572899040060" duration="378000" />
       <workItem from="1572901934136" duration="381000" />
+      <workItem from="1573504259568" duration="4285000" />
     </task>
     <servers />
   </component>

@@ -8,6 +8,7 @@
           <e p="ActionController.cs" t="Include" />
           <e p="AnimController.cs" t="Include" />
           <e p="ColorChanger.cs" t="Include" />
+          <e p="DragObjs.cs" t="Include" />
           <e p="GameAction.cs" t="Include" />
           <e p="GameActionHandler.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
