@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1d3c8252-14c1-4e8a-97f2-199144dd1b60" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Hungies-Story-book/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chubs.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Chubs.mp3.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 2.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 3.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 4.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 5.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 6.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 6.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 7.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 7.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 8.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Page 9.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Page 9.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Title Page.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Title Page.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MusicController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Sprites/microphone.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/microphone.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DragObjs.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DragObjs.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/Hungies.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/Hungies.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/IMG_0008.PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/IMG_0008.PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/IMG_0009.PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/IMG_0009.PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/IMG_0010.PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/IMG_0010.PNG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Sprites/IMG_0011.PNG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Sprites/IMG_0011.PNG.meta" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +40,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToggleLights.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ActionController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SetAnimatorTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Sprites/Hungies.png.meta" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyEvent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColorChanger.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -131,7 +139,7 @@
       <workItem from="1572477880155" duration="2541000" />
       <workItem from="1572899040060" duration="378000" />
       <workItem from="1572901934136" duration="381000" />
-      <workItem from="1573504259568" duration="4285000" />
+      <workItem from="1573504259568" duration="4395000" />
     </task>
     <servers />
   </component>
