@@ -9,7 +9,7 @@ public class DragObjs : MonoBehaviour
     private Vector3 position;
     
    
-    public void Start()
+    public void startDrag()
     {
         position = gameObject.transform.position;
         draggy = true;
