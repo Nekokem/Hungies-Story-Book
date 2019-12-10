@@ -12,7 +12,6 @@ public class GameAction : ScriptableObject
     
     public void Raise()
     {
-        Debug.Log("calling action");
         action?.Invoke();
     }
 }
